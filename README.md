@@ -30,11 +30,11 @@ The dataset used for this project contains information about various car models,
 
 * **Data Splitting:** The dataset was split into training and testing sets.
 * **Model Selection:** Various machine learning models were explored, including:
- 1.Linear Regression
- 2.Random Forest Regression
- 3.Gradient Boosting Regression
- 4.XGBoost Regression**
- **Model Training:** The selected model was trained on the training set.
+*  1.Linear Regression
+*  2.Random Forest Regression
+*  3.Gradient Boosting Regression
+*  4.XGBoost Regression**
+* **Model Training:** The selected model was trained on the training set.
 
 ## Model Evaluation:
 
