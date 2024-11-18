@@ -9,7 +9,7 @@ This project aims to develop a machine learning model to predict the price of us
 
 The dataset used for this project contains information about various car models, including:
 
-**Car Name:** The make and model of the car.
+* **Car Name:** The make and model of the car.
 **Year:** The year of manufacture.
 **Fuel Type:** The type of fuel used by the car (e.g., petrol, diesel).
 **Transmission Type:** The type of transmission (e.g., manual, automatic).
